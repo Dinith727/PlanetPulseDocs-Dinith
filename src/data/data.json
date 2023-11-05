@@ -170,6 +170,20 @@
       "url": "https://drive.google.com/file/d/1VxImePWPYIH1fvRixWbLcOrH0gyfwRrr/view?usp=sharing"
     }
   ],
+  "ProjectRegistration": [
+    {
+      "title": "Topic Assesment Form",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url": "https://drive.google.com/file/d/17tl_5xZxQxCGduQydQAfn8qRcV_AWtMs/view?usp=sharing"
+    },
+    {
+      "title": "Project Charter",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/pdf.png",
+      "url": "https://drive.google.com/file/d/11vRSBqWnadpJRHGF1fgSYArWxxeZH0_n/view?usp=sharing"
+    }
+  ],
   "Services": [
     {
       "icon": "fa fa-bell-o",

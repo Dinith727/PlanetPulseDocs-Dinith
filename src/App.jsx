@@ -11,6 +11,7 @@ import { Research } from "./components/research";
 import { PPtwo } from "./components/pptwo";
 import { StatusDocTwo } from "./components/statusdoctwo";
 import { FinalReports } from "./components/finalreports";
+import { ProjectRegistration } from "./components/projectregistration";
 import { Testimonials } from "./components/testimonials";
 import { Team } from "./components/Team";
 import { Contact } from "./components/contact";
@@ -43,6 +44,7 @@ const App = () => {
       <PPtwo data={landingPageData.ProgressPresTwo} />
       <StatusDocTwo data={landingPageData.StatusDocTwo} />
       <FinalReports data={landingPageData.FinalReps} />
+      <ProjectRegistration data={landingPageData.ProjectRegistration} />
       <Testimonials data={landingPageData.Testimonials} />
       <Team data={landingPageData.Team} />
       <Contact data={landingPageData.Contact} />
